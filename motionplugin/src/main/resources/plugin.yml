@@ -1,0 +1,6 @@
+name: MotionPlugin
+description: a *very* simple plugin to manipulate player motion
+author: Sw3d15h_F1s4
+version: 1.0.0
+api-version: 1.20
+main: com.sw3d15h.motionplugin.MotionPlugin
